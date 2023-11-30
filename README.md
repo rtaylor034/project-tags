@@ -9,7 +9,7 @@ Project tags are not objective, and may change at any time; they simply reflect 
 ## Tags
 | Tag | Description | Projects |
 | --- | ----------- | -------- |
-| Active | I am currently working on this project as a priority | . |
+| Active | I am currently working on this project as a priority. | . |
 | Held | I am not currently working on this project, but plan to come back to it in the near future. | . | 
 | Inactive | I am not currently working on this project and have no particular plans too in the future. | . |
 | Archived | This repository is archived (or is inherently an archive) and will not recieve any more changes. | . |
