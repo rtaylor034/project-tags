@@ -8,28 +8,28 @@ Project tags are not objective, and may change at any time; they simply reflect 
 
 ## Tags
 
-### Active
+### [Active]
 
 I am currently working on this project as a priority.
 
-### Held
+### [Held]
 
 I am not currently working on this project, but plan to come back to it in the near future.
 
-### Inactive
+### [Inactive]
 
 I am not currently working on this project and have no particular plans too in the future.
 
 *Projects marked 'Inactive' have a high chance of becoming 'Iteration' or 'Archived'.*
 
-### Archived
+### [Archived]
 
 This repository is archived (or is inherently an archive) and will not recieve any more changes.
 
-### Iteration
+### [Iteration]
 
 This project has a successor in another repository; this repository is an earlier iteration.
 
-### Marked for Iteration
+### [Marked for Iteration]
 
 This project is planned to have a successor in the future.
