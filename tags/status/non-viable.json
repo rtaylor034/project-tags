@@ -2,5 +2,6 @@
     "schemaVersion": 1,
     "label": "status",
     "message": "non-viable",
-    "color": "red"
+    "color": "crimson",
+    "labelColor": "#0f0b1d"
 }

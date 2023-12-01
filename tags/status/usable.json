@@ -1,6 +1,7 @@
 {
     "schemaVersion": 1,
     "label": "status",
-    "message": "USABLE",
-    "color": "green"
+    "message": "usable",
+    "color": "ForestGreen",
+    "labelColor": "#0f0b1d"
 }

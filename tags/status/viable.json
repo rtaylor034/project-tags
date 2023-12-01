@@ -2,5 +2,6 @@
     "schemaVersion": 1,
     "label": "status",
     "message": "viable",
-    "color": "yellow"
+    "color": "SpringGreen",
+    "labelColor": "#0f0b1d"
 }
