@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "label": "project status",
+    "label": "status",
     "message": "usable",
     "color": "green"
 }
