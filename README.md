@@ -6,6 +6,8 @@ They are meant to organize and inform the reader of my personal status on a give
 
 Project tags are not objective, and may change at any time; they simply reflect what I think about the project.
 
+*Eventually I would like to make these dynamic and cool with something like shields.io, but this works for now.*
+
 ## Tags
 | Tag | Description | Projects |
 | --- | ----------- | -------- |
