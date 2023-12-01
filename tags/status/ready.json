@@ -2,6 +2,6 @@
     "schemaVersion": 1,
     "label": "status",
     "message": "ready",
-    "color": "MediumSeaGreen",
+    "color": "#3cb371",
     "labelColor": "#0f0b1d"
 }
