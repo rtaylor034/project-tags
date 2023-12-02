@@ -7,18 +7,19 @@ These labels are meant to reflect:
 - My intent for the future of the repository (`stance`).
 
 #### Status:
+
 | Label | Description |
-| :---- | :---------- |
-| `ready` | Could be considered finished (ignoring non-breaking bugs/issues); All features are stable and documented. "production-ready". |
-| `usable` | Core functionality/features stable and documented *just* enough for user utilization. "user-ready", not "production-ready". |
-| `viable` | Technically can perform intended core functionality, but probably not documented or stable enough for public utilization. |
-| `non-viable` | Lacking core functionality. Most likely in early development. |
+| ---- | :---------- |
+| ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fready.json&label=%20) | All features are stable and documented. "production-ready". |
+| ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fusable.json&label=%20) | Core functionality/features stable and documented **just** enough for user utilization. "user-ready", not "production-ready". |
+| ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fviable.json&label=%20) | Technically can perform intended core functionality, but probably not documented or stable enough for public utilization. |
+| ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fnon-viable.json&label=%20) | Lacking core functionality. Most likely in early development. |
 
 #### Stance:
 | Label | Description |
-| :---- | :---------- |
-| `active` | Is actively being worked on. Frequent changes will be pushed to this repository. |
-| `held` | Progress is halted, but planned to continue in the near future. |
-| `inactive` | Is not being worked on and is not planned to continue. Most likely is in deliberation of being changed to `archived` or `iteration`. |
-| `archived` | Is archived (or is inherently an archive). No further changes will be pushed to this repository. |
-| `iteration` | Is planned to have a successor in another repository. Once the successor repository is created, this repository will be set to `archived` and the successor will be linked in the `README.md`. |
+| ---- | :---------- |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Factive.json&label=%20) | Actively being worked on. Frequent changes will be pushed to this repository. |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Fheld.json&label=%20) | Not currently being worked on, but planned to continue in the near future. |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Finactive.json&label=%20) | Not being worked on and has no implication of becoming `active` again. Most likely in deliberation of being changed to `archived` or `iteration`. |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Farchived.json&label=%20) | Archived. No further changes will be pushed to this repository. |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Fiteration.json&label=%20) | Planned to have a successor in another repository. (This repository will be set to `archived` and the successor will be linked in the `README.md` when the successor's repository is created.) |
