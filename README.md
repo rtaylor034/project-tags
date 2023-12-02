@@ -6,7 +6,7 @@ These labels are meant to reflect:
 - My thoughts on the stability/usability of the repository in its current state (`status`).
 - My intent for the future of the repository (`stance`).
 
-## Status:
+### Status:
 
 | Label | Description |
 | ---- | :---------- |
@@ -15,7 +15,7 @@ These labels are meant to reflect:
 | ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fviable.json&label=%20) | Technically can perform intended core functionality, but probably not documented or stable enough for public utilization. |
 | ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fnon-viable.json&label=%20) | Lacking core functionality. Most likely in early development. |
 
-## Stance:
+### Stance:
 | Label | Description |
 | ---- | :---------- |
 | ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Factive.json&label=%20) | Actively being worked on. Frequent changes will be pushed to this repository. |
