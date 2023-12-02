@@ -1,34 +1,24 @@
-# GFunction Project Tags
+# GFunction Project Labels
 
-These tags are present at the end of every top-level `README.md` in my repositories.
+In most of my repositories you will find `status` and `stance` labels at the top of the primary `README.md` files.
 
-They are meant to organize and inform the reader of my personal status on a given project.
+These labels are meant to reflect:
+- My thoughts on the stability/usability of the repository in its current state (`status`).
+- My intent for the future of the repository (`stance`).
 
-Project tags are not objective, and may change at any time; they simply reflect what I think about the project.
+#### Status:
+| Label | Description |
+| :---- | :---------- |
+| `ready` | Could be considered finished (ignoring non-breaking bugs/issues); All features are stable and documented. "production-ready". |
+| `usable` | Core functionality/features stable and documented *just* enough for user utilization. "user-ready", not "production-ready". |
+| `viable` | Technically can perform intended core functionality, but probably not documented or stable enough for public utilization. |
+| `non-viable` | Lacking core functionality. Most likely in early development. |
 
-I am aware that there are more standard ways of tracking things like this, and eventually I will use those methods.
-
-## Tags
-| Tag | Description | Projects |
-| --- | ----------- | -------- |
-| Active | I am currently working on this repository as a priority. | . |
-| Held | I am not currently working on this repository, but plan to come back to it in the near future. | . | 
-| Inactive | I am not currently working on this repository and have no particular plans to in the future. | . |
-| Archived | I will not be making any further changes to this repository; The project is archived or is inherently an archive. | . |
-| Iteration | I have created a successor to this repository in another; this repository is an earlier iteration. | . |
-| Marked for Iteration | I am considering making a successor to this repository in the future. | . |
-
-## Progress Status
-| Tag | Description | Projects |
-| --- | ----------- | -------- |
-| Ready | Can be considered finished and is stable. | . |
-| Usable | Stable and documented enough to be utilized/released publicly. This does not mean *production*-ready, just user-ready. | . |
-| Viable | Does what it is intended to do and can technically be utilized, but lacks documentation or stability. | . |
-| Non-viable | Lacks core functionality and/or is very unstable. | . |
-
-## Work Status
-| Tag | Description | Projects |
-| --- | ----------- | -------- |
-| Active | Actively being worked on as a priority. | . |
-| Held | Not currently being worked on but holds . | . | 
-| Inactive | Not currently being worked on, but planned to be 'Active' at some point. | . | 
+#### Stance:
+| Label | Description |
+| :---- | :---------- |
+| `active` | Is actively being worked on. Frequent changes will be pushed to this repository. |
+| `held` | Progress is halted, but planned to continue in the near future. |
+| `inactive` | Is not being worked on and is not planned to continue. Most likely is in deliberation of being changed to `archived` or `iteration`. |
+| `archived` | Is archived (or is inherently an archive). No further changes will be pushed to this repository. |
+| `iteration` | Is planned to have a successor in another repository. Once the successor repository is created, this repository will be set to `archived` and the successor will be linked in the `README.md`. |
