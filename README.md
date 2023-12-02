@@ -5,11 +5,11 @@
 
 In most of my repositories you will find `status` and `stance` labels at the top of the primary `README.md` files.
 
-These labels are meant to reflect:
+These labels are meant to subjectively reflect:
 - My thoughts on the stability/usability of the repository in its current state (`status`).
 - My intent for the future of the repository (`stance`).
 
-It is important to note that these are **not** strict rules; they reflect subjective thoughts/intent.
+It is important to note that these are **not** strict rules.
 
 ### Status:
 
