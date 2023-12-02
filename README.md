@@ -9,6 +9,8 @@ These labels are meant to reflect:
 - My thoughts on the stability/usability of the repository in its current state (`status`).
 - My intent for the future of the repository (`stance`).
 
+It is important to note that these are not objective nor are they strict rules. They simply reflect thoughts/intent.
+
 ### Status:
 
 | Label | Description |
