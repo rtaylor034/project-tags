@@ -1,4 +1,4 @@
-# GFunction Project Labels
+# Project Labels
 
 In most of my repositories you will find `status` and `stance` labels at the top of the primary `README.md` files.
 
