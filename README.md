@@ -3,7 +3,7 @@
 [![Gfunction Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fusable.json)](https://github.com/rtaylor034/project-tags)
 [![Gfunction Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Finactive.json)](https://github.com/rtaylor034/project-tags)
 
-In most of my repositories you will find `status` and `stance` labels at the top of the primary `README.md` files.
+In most of my repositories, you will find `status` and `stance` labels at the top of the primary `README` file.
 
 These labels are meant to reflect:
 - My thoughts on the stability/usability of the repository in its current state (`status`).
