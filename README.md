@@ -24,7 +24,7 @@ It is important to note that these are inherently subjective, and thus are **not
 | Label | Description |
 | ---- | :---------- |
 | ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Factive.json&label=%20) | Actively being worked on. Frequent commits will be made to this repository. |
-| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Fheld.json&label=%20) | Not currently being worked on, but planned to continue in the future. |
-| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Finactive.json&label=%20) | Not being worked on. Holds no implication on whether or not progress will continue. |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Fheld.json&label=%20) | Not being worked on, but is planned to be in the future. |
+| ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Finactive.json&label=%20) | Not being worked on. |
 | ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Farchived.json&label=%20) | Soft archived. No further changes are planned for this repository. |
 | ![Stance](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstance%2Fiteration.json&label=%20) | Planned to have a successor in another repository. (This repository will be set to `archived` and the successor will be linked when the successor's repository is created.) |
