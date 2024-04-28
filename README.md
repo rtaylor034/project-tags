@@ -17,7 +17,7 @@ It is important to note that these are inherently subjective, and thus are **not
 | ---- | :---------- |
 | ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fready.json&label=%20) | All features stable and documented. "production-ready". |
 | ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fusable.json&label=%20) | Core functionality/features stable and documented enough for user utilization. "user-ready", not "production-ready". |
-| ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fviable.json&label=%20) | Technically can perform core functionality, but not documented/stable enough for public utilization. |
+| ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fviable.json&label=%20) | Technically can perform core functionality, but not documented or stable enough for public utilization. |
 | ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtaylor034%2Fproject-tags%2Fmain%2Ftags%2Fstatus%2Fnon-viable.json&label=%20) | Lacking core functionality. Most likely in early development. |
 
 ### Stance:
