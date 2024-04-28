@@ -9,7 +9,7 @@ These labels are meant to reflect:
 - My thoughts on the stability/usability of the repository in its current state (`status`).
 - My intent for the future of the repository (`stance`).
 
-It is important to note that these are inherently subjective, and thus are **not** meant to be taken as strict rules/descriptors.
+It is important to note that these are inherently subjective and are **not** meant to be taken as strict or standard descriptors.
 
 ### Status:
 
